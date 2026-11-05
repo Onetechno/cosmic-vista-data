@@ -1,0 +1,1239 @@
+{
+ "aurora": {
+  "cells": [
+   [
+    80,
+    -65,
+    10
+   ],
+   [
+    85,
+    -65,
+    10
+   ],
+   [
+    90,
+    -60,
+    10
+   ],
+   [
+    90,
+    75,
+    10
+   ],
+   [
+    95,
+    70,
+    10
+   ],
+   [
+    95,
+    75,
+    10
+   ],
+   [
+    100,
+    -55,
+    10
+   ],
+   [
+    100,
+    70,
+    11
+   ],
+   [
+    100,
+    75,
+    10
+   ],
+   [
+    105,
+    -55,
+    11
+   ],
+   [
+    105,
+    70,
+    12
+   ],
+   [
+    105,
+    75,
+    11
+   ],
+   [
+    110,
+    -55,
+    12
+   ],
+   [
+    110,
+    70,
+    13
+   ],
+   [
+    110,
+    75,
+    11
+   ],
+   [
+    115,
+    -55,
+    13
+   ],
+   [
+    115,
+    70,
+    13
+   ],
+   [
+    115,
+    75,
+    12
+   ],
+   [
+    120,
+    -55,
+    13
+   ],
+   [
+    120,
+    -50,
+    10
+   ],
+   [
+    120,
+    70,
+    14
+   ],
+   [
+    120,
+    75,
+    13
+   ],
+   [
+    125,
+    -55,
+    15
+   ],
+   [
+    125,
+    -50,
+    11
+   ],
+   [
+    125,
+    70,
+    15
+   ],
+   [
+    125,
+    75,
+    13
+   ],
+   [
+    130,
+    -55,
+    16
+   ],
+   [
+    130,
+    -50,
+    11
+   ],
+   [
+    130,
+    70,
+    16
+   ],
+   [
+    130,
+    75,
+    14
+   ],
+   [
+    135,
+    -55,
+    17
+   ],
+   [
+    135,
+    -50,
+    11
+   ],
+   [
+    135,
+    70,
+    17
+   ],
+   [
+    135,
+    75,
+    14
+   ],
+   [
+    140,
+    -55,
+    17
+   ],
+   [
+    140,
+    -50,
+    11
+   ],
+   [
+    140,
+    70,
+    18
+   ],
+   [
+    140,
+    75,
+    15
+   ],
+   [
+    145,
+    -55,
+    18
+   ],
+   [
+    145,
+    -50,
+    10
+   ],
+   [
+    145,
+    70,
+    19
+   ],
+   [
+    145,
+    75,
+    15
+   ],
+   [
+    150,
+    -55,
+    17
+   ],
+   [
+    150,
+    70,
+    20
+   ],
+   [
+    150,
+    75,
+    15
+   ],
+   [
+    155,
+    -60,
+    11
+   ],
+   [
+    155,
+    -55,
+    16
+   ],
+   [
+    155,
+    70,
+    20
+   ],
+   [
+    155,
+    75,
+    15
+   ],
+   [
+    160,
+    -60,
+    12
+   ],
+   [
+    160,
+    -55,
+    14
+   ],
+   [
+    160,
+    70,
+    20
+   ],
+   [
+    160,
+    75,
+    14
+   ],
+   [
+    165,
+    -60,
+    13
+   ],
+   [
+    165,
+    -55,
+    12
+   ],
+   [
+    165,
+    70,
+    21
+   ],
+   [
+    165,
+    75,
+    13
+   ],
+   [
+    170,
+    -60,
+    13
+   ],
+   [
+    170,
+    70,
+    21
+   ],
+   [
+    170,
+    75,
+    12
+   ],
+   [
+    175,
+    -60,
+    12
+   ],
+   [
+    175,
+    65,
+    10
+   ],
+   [
+    175,
+    70,
+    20
+   ],
+   [
+    175,
+    75,
+    11
+   ],
+   [
+    180,
+    -60,
+    10
+   ],
+   [
+    180,
+    65,
+    11
+   ],
+   [
+    180,
+    70,
+    20
+   ],
+   [
+    180,
+    75,
+    10
+   ],
+   [
+    185,
+    65,
+    12
+   ],
+   [
+    185,
+    70,
+    19
+   ],
+   [
+    190,
+    65,
+    13
+   ],
+   [
+    190,
+    70,
+    18
+   ],
+   [
+    195,
+    65,
+    14
+   ],
+   [
+    195,
+    70,
+    17
+   ],
+   [
+    200,
+    65,
+    15
+   ],
+   [
+    200,
+    70,
+    15
+   ],
+   [
+    205,
+    65,
+    15
+   ],
+   [
+    205,
+    70,
+    13
+   ],
+   [
+    210,
+    65,
+    15
+   ],
+   [
+    210,
+    70,
+    11
+   ],
+   [
+    215,
+    65,
+    14
+   ],
+   [
+    220,
+    65,
+    13
+   ],
+   [
+    225,
+    65,
+    11
+   ],
+   [
+    230,
+    65,
+    10
+   ]
+  ],
+  "forecast_time": "2026-11-05T13:10:00Z",
+  "north_max_percent": 21,
+  "observation_time": "2026-11-05T11:53:00Z",
+  "south_max_percent": 18
+ },
+ "generated_utc": "2026-11-05T11:59:39Z",
+ "moon_phases": [
+  {
+   "day": 3,
+   "month": 1,
+   "phase": "Full Moon",
+   "time": "10:03",
+   "year": 2026
+  },
+  {
+   "day": 10,
+   "month": 1,
+   "phase": "Last Quarter",
+   "time": "15:48",
+   "year": 2026
+  },
+  {
+   "day": 18,
+   "month": 1,
+   "phase": "New Moon",
+   "time": "19:52",
+   "year": 2026
+  },
+  {
+   "day": 26,
+   "month": 1,
+   "phase": "First Quarter",
+   "time": "04:47",
+   "year": 2026
+  },
+  {
+   "day": 1,
+   "month": 2,
+   "phase": "Full Moon",
+   "time": "22:09",
+   "year": 2026
+  },
+  {
+   "day": 9,
+   "month": 2,
+   "phase": "Last Quarter",
+   "time": "12:43",
+   "year": 2026
+  },
+  {
+   "day": 17,
+   "month": 2,
+   "phase": "New Moon",
+   "time": "12:01",
+   "year": 2026
+  },
+  {
+   "day": 24,
+   "month": 2,
+   "phase": "First Quarter",
+   "time": "12:27",
+   "year": 2026
+  },
+  {
+   "day": 3,
+   "month": 3,
+   "phase": "Full Moon",
+   "time": "11:38",
+   "year": 2026
+  },
+  {
+   "day": 11,
+   "month": 3,
+   "phase": "Last Quarter",
+   "time": "09:38",
+   "year": 2026
+  },
+  {
+   "day": 19,
+   "month": 3,
+   "phase": "New Moon",
+   "time": "01:23",
+   "year": 2026
+  },
+  {
+   "day": 25,
+   "month": 3,
+   "phase": "First Quarter",
+   "time": "19:18",
+   "year": 2026
+  },
+  {
+   "day": 2,
+   "month": 4,
+   "phase": "Full Moon",
+   "time": "02:12",
+   "year": 2026
+  },
+  {
+   "day": 10,
+   "month": 4,
+   "phase": "Last Quarter",
+   "time": "04:51",
+   "year": 2026
+  },
+  {
+   "day": 17,
+   "month": 4,
+   "phase": "New Moon",
+   "time": "11:52",
+   "year": 2026
+  },
+  {
+   "day": 24,
+   "month": 4,
+   "phase": "First Quarter",
+   "time": "02:32",
+   "year": 2026
+  },
+  {
+   "day": 1,
+   "month": 5,
+   "phase": "Full Moon",
+   "time": "17:23",
+   "year": 2026
+  },
+  {
+   "day": 9,
+   "month": 5,
+   "phase": "Last Quarter",
+   "time": "21:10",
+   "year": 2026
+  },
+  {
+   "day": 16,
+   "month": 5,
+   "phase": "New Moon",
+   "time": "20:01",
+   "year": 2026
+  },
+  {
+   "day": 23,
+   "month": 5,
+   "phase": "First Quarter",
+   "time": "11:11",
+   "year": 2026
+  },
+  {
+   "day": 31,
+   "month": 5,
+   "phase": "Full Moon",
+   "time": "08:45",
+   "year": 2026
+  },
+  {
+   "day": 8,
+   "month": 6,
+   "phase": "Last Quarter",
+   "time": "10:00",
+   "year": 2026
+  },
+  {
+   "day": 15,
+   "month": 6,
+   "phase": "New Moon",
+   "time": "02:54",
+   "year": 2026
+  },
+  {
+   "day": 21,
+   "month": 6,
+   "phase": "First Quarter",
+   "time": "21:55",
+   "year": 2026
+  },
+  {
+   "day": 29,
+   "month": 6,
+   "phase": "Full Moon",
+   "time": "23:56",
+   "year": 2026
+  },
+  {
+   "day": 7,
+   "month": 7,
+   "phase": "Last Quarter",
+   "time": "19:29",
+   "year": 2026
+  },
+  {
+   "day": 14,
+   "month": 7,
+   "phase": "New Moon",
+   "time": "09:43",
+   "year": 2026
+  },
+  {
+   "day": 21,
+   "month": 7,
+   "phase": "First Quarter",
+   "time": "11:05",
+   "year": 2026
+  },
+  {
+   "day": 29,
+   "month": 7,
+   "phase": "Full Moon",
+   "time": "14:36",
+   "year": 2026
+  },
+  {
+   "day": 6,
+   "month": 8,
+   "phase": "Last Quarter",
+   "time": "02:21",
+   "year": 2026
+  },
+  {
+   "day": 12,
+   "month": 8,
+   "phase": "New Moon",
+   "time": "17:37",
+   "year": 2026
+  },
+  {
+   "day": 20,
+   "month": 8,
+   "phase": "First Quarter",
+   "time": "02:46",
+   "year": 2026
+  },
+  {
+   "day": 28,
+   "month": 8,
+   "phase": "Full Moon",
+   "time": "04:18",
+   "year": 2026
+  },
+  {
+   "day": 4,
+   "month": 9,
+   "phase": "Last Quarter",
+   "time": "07:51",
+   "year": 2026
+  },
+  {
+   "day": 11,
+   "month": 9,
+   "phase": "New Moon",
+   "time": "03:27",
+   "year": 2026
+  },
+  {
+   "day": 18,
+   "month": 9,
+   "phase": "First Quarter",
+   "time": "20:44",
+   "year": 2026
+  },
+  {
+   "day": 26,
+   "month": 9,
+   "phase": "Full Moon",
+   "time": "16:49",
+   "year": 2026
+  },
+  {
+   "day": 3,
+   "month": 10,
+   "phase": "Last Quarter",
+   "time": "13:25",
+   "year": 2026
+  },
+  {
+   "day": 10,
+   "month": 10,
+   "phase": "New Moon",
+   "time": "15:50",
+   "year": 2026
+  },
+  {
+   "day": 18,
+   "month": 10,
+   "phase": "First Quarter",
+   "time": "16:12",
+   "year": 2026
+  },
+  {
+   "day": 26,
+   "month": 10,
+   "phase": "Full Moon",
+   "time": "04:12",
+   "year": 2026
+  },
+  {
+   "day": 1,
+   "month": 11,
+   "phase": "Last Quarter",
+   "time": "20:28",
+   "year": 2026
+  },
+  {
+   "day": 9,
+   "month": 11,
+   "phase": "New Moon",
+   "time": "07:02",
+   "year": 2026
+  },
+  {
+   "day": 17,
+   "month": 11,
+   "phase": "First Quarter",
+   "time": "11:48",
+   "year": 2026
+  },
+  {
+   "day": 24,
+   "month": 11,
+   "phase": "Full Moon",
+   "time": "14:53",
+   "year": 2026
+  },
+  {
+   "day": 1,
+   "month": 12,
+   "phase": "Last Quarter",
+   "time": "06:08",
+   "year": 2026
+  },
+  {
+   "day": 9,
+   "month": 12,
+   "phase": "New Moon",
+   "time": "00:52",
+   "year": 2026
+  },
+  {
+   "day": 17,
+   "month": 12,
+   "phase": "First Quarter",
+   "time": "05:42",
+   "year": 2026
+  },
+  {
+   "day": 24,
+   "month": 12,
+   "phase": "Full Moon",
+   "time": "01:28",
+   "year": 2026
+  },
+  {
+   "day": 30,
+   "month": 12,
+   "phase": "Last Quarter",
+   "time": "18:59",
+   "year": 2026
+  },
+  {
+   "day": 7,
+   "month": 1,
+   "phase": "New Moon",
+   "time": "20:24",
+   "year": 2027
+  },
+  {
+   "day": 15,
+   "month": 1,
+   "phase": "First Quarter",
+   "time": "20:34",
+   "year": 2027
+  },
+  {
+   "day": 22,
+   "month": 1,
+   "phase": "Full Moon",
+   "time": "12:17",
+   "year": 2027
+  },
+  {
+   "day": 29,
+   "month": 1,
+   "phase": "Last Quarter",
+   "time": "10:55",
+   "year": 2027
+  },
+  {
+   "day": 6,
+   "month": 2,
+   "phase": "New Moon",
+   "time": "15:56",
+   "year": 2027
+  },
+  {
+   "day": 14,
+   "month": 2,
+   "phase": "First Quarter",
+   "time": "07:58",
+   "year": 2027
+  },
+  {
+   "day": 20,
+   "month": 2,
+   "phase": "Full Moon",
+   "time": "23:23",
+   "year": 2027
+  },
+  {
+   "day": 28,
+   "month": 2,
+   "phase": "Last Quarter",
+   "time": "05:16",
+   "year": 2027
+  },
+  {
+   "day": 8,
+   "month": 3,
+   "phase": "New Moon",
+   "time": "09:29",
+   "year": 2027
+  },
+  {
+   "day": 15,
+   "month": 3,
+   "phase": "First Quarter",
+   "time": "16:25",
+   "year": 2027
+  },
+  {
+   "day": 22,
+   "month": 3,
+   "phase": "Full Moon",
+   "time": "10:44",
+   "year": 2027
+  },
+  {
+   "day": 30,
+   "month": 3,
+   "phase": "Last Quarter",
+   "time": "00:54",
+   "year": 2027
+  },
+  {
+   "day": 6,
+   "month": 4,
+   "phase": "New Moon",
+   "time": "23:51",
+   "year": 2027
+  },
+  {
+   "day": 13,
+   "month": 4,
+   "phase": "First Quarter",
+   "time": "22:56",
+   "year": 2027
+  },
+  {
+   "day": 20,
+   "month": 4,
+   "phase": "Full Moon",
+   "time": "22:27",
+   "year": 2027
+  },
+  {
+   "day": 28,
+   "month": 4,
+   "phase": "Last Quarter",
+   "time": "20:18",
+   "year": 2027
+  },
+  {
+   "day": 6,
+   "month": 5,
+   "phase": "New Moon",
+   "time": "10:58",
+   "year": 2027
+  },
+  {
+   "day": 13,
+   "month": 5,
+   "phase": "First Quarter",
+   "time": "04:44",
+   "year": 2027
+  },
+  {
+   "day": 20,
+   "month": 5,
+   "phase": "Full Moon",
+   "time": "10:59",
+   "year": 2027
+  },
+  {
+   "day": 28,
+   "month": 5,
+   "phase": "Last Quarter",
+   "time": "13:58",
+   "year": 2027
+  },
+  {
+   "day": 4,
+   "month": 6,
+   "phase": "New Moon",
+   "time": "19:40",
+   "year": 2027
+  },
+  {
+   "day": 11,
+   "month": 6,
+   "phase": "First Quarter",
+   "time": "10:56",
+   "year": 2027
+  },
+  {
+   "day": 19,
+   "month": 6,
+   "phase": "Full Moon",
+   "time": "00:44",
+   "year": 2027
+  },
+  {
+   "day": 27,
+   "month": 6,
+   "phase": "Last Quarter",
+   "time": "04:54",
+   "year": 2027
+  },
+  {
+   "day": 4,
+   "month": 7,
+   "phase": "New Moon",
+   "time": "03:02",
+   "year": 2027
+  },
+  {
+   "day": 10,
+   "month": 7,
+   "phase": "First Quarter",
+   "time": "18:39",
+   "year": 2027
+  },
+  {
+   "day": 18,
+   "month": 7,
+   "phase": "Full Moon",
+   "time": "15:45",
+   "year": 2027
+  },
+  {
+   "day": 26,
+   "month": 7,
+   "phase": "Last Quarter",
+   "time": "16:55",
+   "year": 2027
+  },
+  {
+   "day": 2,
+   "month": 8,
+   "phase": "New Moon",
+   "time": "10:05",
+   "year": 2027
+  },
+  {
+   "day": 9,
+   "month": 8,
+   "phase": "First Quarter",
+   "time": "04:54",
+   "year": 2027
+  },
+  {
+   "day": 17,
+   "month": 8,
+   "phase": "Full Moon",
+   "time": "07:29",
+   "year": 2027
+  },
+  {
+   "day": 25,
+   "month": 8,
+   "phase": "Last Quarter",
+   "time": "02:27",
+   "year": 2027
+  },
+  {
+   "day": 31,
+   "month": 8,
+   "phase": "New Moon",
+   "time": "17:41",
+   "year": 2027
+  },
+  {
+   "day": 7,
+   "month": 9,
+   "phase": "First Quarter",
+   "time": "18:31",
+   "year": 2027
+  },
+  {
+   "day": 15,
+   "month": 9,
+   "phase": "Full Moon",
+   "time": "23:03",
+   "year": 2027
+  },
+  {
+   "day": 23,
+   "month": 9,
+   "phase": "Last Quarter",
+   "time": "10:20",
+   "year": 2027
+  },
+  {
+   "day": 30,
+   "month": 9,
+   "phase": "New Moon",
+   "time": "02:36",
+   "year": 2027
+  },
+  {
+   "day": 7,
+   "month": 10,
+   "phase": "First Quarter",
+   "time": "11:47",
+   "year": 2027
+  },
+  {
+   "day": 15,
+   "month": 10,
+   "phase": "Full Moon",
+   "time": "13:47",
+   "year": 2027
+  },
+  {
+   "day": 22,
+   "month": 10,
+   "phase": "Last Quarter",
+   "time": "17:29",
+   "year": 2027
+  },
+  {
+   "day": 29,
+   "month": 10,
+   "phase": "New Moon",
+   "time": "13:36",
+   "year": 2027
+  },
+  {
+   "day": 6,
+   "month": 11,
+   "phase": "First Quarter",
+   "time": "08:00",
+   "year": 2027
+  },
+  {
+   "day": 14,
+   "month": 11,
+   "phase": "Full Moon",
+   "time": "03:26",
+   "year": 2027
+  },
+  {
+   "day": 21,
+   "month": 11,
+   "phase": "Last Quarter",
+   "time": "00:48",
+   "year": 2027
+  },
+  {
+   "day": 28,
+   "month": 11,
+   "phase": "New Moon",
+   "time": "03:24",
+   "year": 2027
+  },
+  {
+   "day": 6,
+   "month": 12,
+   "phase": "First Quarter",
+   "time": "05:22",
+   "year": 2027
+  },
+  {
+   "day": 13,
+   "month": 12,
+   "phase": "Full Moon",
+   "time": "16:09",
+   "year": 2027
+  },
+  {
+   "day": 20,
+   "month": 12,
+   "phase": "Last Quarter",
+   "time": "09:11",
+   "year": 2027
+  },
+  {
+   "day": 27,
+   "month": 12,
+   "phase": "New Moon",
+   "time": "20:12",
+   "year": 2027
+  }
+ ],
+ "schema": 1,
+ "seasons": [
+  {
+   "day": 3,
+   "month": 1,
+   "phenom": "Perihelion",
+   "time": "17:15",
+   "year": 2026
+  },
+  {
+   "day": 20,
+   "month": 3,
+   "phenom": "Equinox",
+   "time": "14:46",
+   "year": 2026
+  },
+  {
+   "day": 21,
+   "month": 6,
+   "phenom": "Solstice",
+   "time": "08:24",
+   "year": 2026
+  },
+  {
+   "day": 6,
+   "month": 7,
+   "phenom": "Aphelion",
+   "time": "17:30",
+   "year": 2026
+  },
+  {
+   "day": 23,
+   "month": 9,
+   "phenom": "Equinox",
+   "time": "00:05",
+   "year": 2026
+  },
+  {
+   "day": 21,
+   "month": 12,
+   "phenom": "Solstice",
+   "time": "20:50",
+   "year": 2026
+  },
+  {
+   "day": 3,
+   "month": 1,
+   "phenom": "Perihelion",
+   "time": "02:33",
+   "year": 2027
+  },
+  {
+   "day": 20,
+   "month": 3,
+   "phenom": "Equinox",
+   "time": "20:25",
+   "year": 2027
+  },
+  {
+   "day": 21,
+   "month": 6,
+   "phenom": "Solstice",
+   "time": "14:11",
+   "year": 2027
+  },
+  {
+   "day": 5,
+   "month": 7,
+   "phenom": "Aphelion",
+   "time": "05:06",
+   "year": 2027
+  },
+  {
+   "day": 23,
+   "month": 9,
+   "phenom": "Equinox",
+   "time": "06:02",
+   "year": 2027
+  },
+  {
+   "day": 22,
+   "month": 12,
+   "phenom": "Solstice",
+   "time": "02:42",
+   "year": 2027
+  }
+ ],
+ "solar_eclipses": [
+  {
+   "day": 17,
+   "event": "Annular Solar Eclipse of 17 February 2026",
+   "month": 2,
+   "year": 2026
+  },
+  {
+   "day": 12,
+   "event": "Total Solar Eclipse of 12 August 2026",
+   "month": 8,
+   "year": 2026
+  },
+  {
+   "day": 6,
+   "event": "Annular Solar Eclipse of 6 February 2027",
+   "month": 2,
+   "year": 2027
+  },
+  {
+   "day": 2,
+   "event": "Total Solar Eclipse of 2 August 2027",
+   "month": 8,
+   "year": 2027
+  }
+ ]
+}
