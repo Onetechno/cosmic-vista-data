@@ -1,0 +1,40 @@
+name: Data Cache
+
+# Collects public data once a day into docs/, published by GitHub Pages, so the app never calls these services itself.
+# A manual run cannot break CelesTrak's two-hour rule: scripts/celestrak_guard.py answers from its cache instead of asking again.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-cache
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    name: Collect
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # actions/checkout v7.0.1
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+
+      - name: Test the collector, with no network
+        run: python3 -m unittest discover -s scripts -p "test_*.py"
+
+      - name: Collect
+        run: python3 scripts/collect.py
+
+      # The guard's record goes in every run, so the next run knows when CelesTrak was last asked. That holds even after a refusal.
+      - name: Publish
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs state
+          git diff --cached --quiet || git commit -m "Update data cache"
+          git push
