@@ -1,10 +1,10 @@
 {
- "generated_utc": "2026-11-16T08:57:03Z",
+ "generated_utc": "2026-11-17T07:31:04Z",
  "schema": 1,
  "sources": {
   "celestrak": {
-   "result": "skipped",
-   "why": "CelesTrak answered 503. Stopping, as its usage policy asks."
+   "fetched_utc": "2026-11-17T07:31:04Z",
+   "result": "ok"
   },
   "nasa_donki": {
    "result": "skipped",
