@@ -1,9 +1,9 @@
 {
- "generated_utc": "2026-11-24T07:32:38Z",
+ "generated_utc": "2026-11-25T07:37:04Z",
  "schema": 1,
  "sources": {
   "celestrak": {
-   "fetched_utc": "2026-11-24T07:32:38Z",
+   "fetched_utc": "2026-11-25T07:37:04Z",
    "result": "ok"
   },
   "nasa_donki": {
@@ -14,7 +14,8 @@
    "result": "ok"
   },
   "usno": {
-   "result": "ok"
+   "result": "failed",
+   "why": "URLError"
   }
  }
 }
