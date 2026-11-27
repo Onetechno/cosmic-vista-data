@@ -1,10 +1,10 @@
 {
- "generated_utc": "2026-11-26T16:54:32Z",
+ "generated_utc": "2026-11-27T16:40:11Z",
  "schema": 1,
  "sources": {
   "celestrak": {
-   "fetched_utc": "2026-11-26T16:54:32Z",
-   "result": "ok"
+   "result": "skipped",
+   "why": "No answer from CelesTrak. Not retrying."
   },
   "nasa_donki": {
    "result": "skipped",
